@@ -17,6 +17,13 @@ plays the orbiting worlds **fully tear-free** on real hardware.
 See [`angelo/README.md`](angelo/README.md) for Angelo's original code and full
 credit.
 
+## What it looks like
+
+[`worldstf_30s.mp4`](worldstf_30s.mp4) — 30 seconds of the production build
+(Fix 3) running at the Spectrum's native 50 fps, captured headlessly from
+[`harness_prod_w9.sna`](harness_prod_w9.sna) via ZEsarUX. The 256×192 active
+bitmap upscaled 3× with nearest-neighbour to preserve pixel edges.
+
 ## The three fixes
 
 | Fix | Idea | Tearing | Cost |
