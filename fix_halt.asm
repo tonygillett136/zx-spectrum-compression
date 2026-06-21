@@ -1,0 +1,3 @@
+    ORG 0x5B00
+    halt
+    jp 0x65F4
